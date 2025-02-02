@@ -1,0 +1,27 @@
+header{
+	width: 100%;
+	background-color: black;
+}
+nav {
+  background-color: #1b1b1b;
+  color: white;
+  width: 90%;
+  height: 70px;
+  margin: auto;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+nav ul {
+  display: flex;
+  justify-content: space-between;
+}
+nav ul li {
+  list-style-type: none;
+  float: inline-end;
+  padding-inline: 30px;
+  line-height: 70px;
+}
+nav ul li a {
+  text-decoration: none;
+  color: white;
+}
