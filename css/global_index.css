@@ -1,0 +1,13 @@
+@import url("components_index/aside.css");
+@import url("components_index/header.css");
+@import url("components_index/main.css");
+@import url("components_index/perfil.css");@import url("components_index/section.css");
+*{
+	border: 0;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	overflow: hidden;
+}
