@@ -1,27 +1,27 @@
-section{
-	display: flex;
-	width: 50vw;
+section {
+  display: flex;
+  width: 50vw;
 }
-section .text{
-	margin: auto;
-	color: white;
-	height: 300px;
-	width: 500px;
+section .text {
+  margin: auto;
+  color: white;
+  height: 300px;
+  width: 500px;
 }
-section .text h1{
-	font-size: 3rem;
-	text-align: start;
-	padding-block: 10px;
+section .text h1 {
+  font-size: 3rem;
+  text-align: start;
+  padding-block: 10px;
 }
-section .text p{
-	text-align: justify;
-	font-size: 1.15rem;
-	margin-bottom: 20px;
+section .text p {
+  text-align: justify;
+  font-size: 1.15rem;
+  margin-bottom: 20px;
 }
-section .text button{
-	background-color:#3F8E00 ;
-	height: 60px;
-	width: 250px;
-	border-radius: 15px;
-	color: white;
+section .text button {
+  background-color: #3f8e00;
+  height: 60px;
+  width: 250px;
+  border-radius: 15px;
+  color: white;
 }

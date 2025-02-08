@@ -1,20 +1,20 @@
-aside{
-	position: fixed;
-	bottom: 0;
-	height: 180px;
-	width: 100vw;
+aside {
+  position: fixed;
+  bottom: 0;
+  height: 180px;
+  width: 100vw;
 }
-aside p{
-	color: white;
-	margin-left: 240px;
-	margin-bottom: 50px;
+aside p {
+  color: white;
+  margin-left: 240px;
+  margin-bottom: 50px;
 }
-.img-company{
-	display: flex;
-	justify-content: center;
-	gap: 111px;
+.img-company {
+  display: flex;
+  justify-content: center;
+  gap: 111px;
 }
-.img-company img{
-	width: 200px;
-	height: 60px;
+.img-company img {
+  width: 200px;
+  height: 60px;
 }
