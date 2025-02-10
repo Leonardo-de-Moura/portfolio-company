@@ -1,9 +1,11 @@
 form {
-	background: white;
+	position: relative;
+	background-color:#1B1B1B;
+	top: 180px;
 	padding: 20px;
 	border-radius: 8px;
 	margin: auto;
-	width: 600px;
+	width: 700px;
 	height: 400px;
 }
 label {
