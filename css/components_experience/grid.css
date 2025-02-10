@@ -1,0 +1,13 @@
+.grid{
+	width: 650px;
+	height: 400px;
+	background-color: #1b1b1b;
+	margin: 10px;
+	border-radius: 15px;
+	color: white;
+
+}
+.grid-container{
+	display: flex;
+	justify-content: center;
+}
