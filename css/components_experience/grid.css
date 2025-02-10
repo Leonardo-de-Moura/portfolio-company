@@ -1,11 +1,17 @@
 .grid{
-	width: 650px;
+	width: 600px;
 	height: 400px;
 	background-color: #1b1b1b;
 	margin: 10px;
 	border-radius: 15px;
 	color: white;
-
+}
+.grid h2{
+	text-align: center;
+}
+.grid p{
+	text-align: justify;
+	margin: 20px;
 }
 .grid-container{
 	display: flex;

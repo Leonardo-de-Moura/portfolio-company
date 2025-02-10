@@ -1,6 +1,8 @@
 @import url("components_experience/title.css");
 @import url("components_experience/grid.css");
 @import url("components_index/header.css");
+@import url("components_index/footer.css");
+
 *{
 	border: 0;
 	margin: 0;
