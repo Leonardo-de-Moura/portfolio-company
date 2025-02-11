@@ -1,16 +1,24 @@
-@keyframes texto{
-	from{
-
-	}
-	to{
-
-	}
+@keyframes texto {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
 }
-@keyframes perfil{
-	from{
-		
-	}
-	to{
+@keyframes perfil {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
 
-	}
+.text {
+  animation: texto 1s ease-in;
+}
+
+.perfil {
+  animation: perfil 1s ease-in;
 }
