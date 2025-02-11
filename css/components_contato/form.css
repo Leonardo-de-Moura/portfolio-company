@@ -8,6 +8,10 @@ form {
 	width: 700px;
 	height: 700px;
 }
+form h2{
+	text-align: center;
+	font-size: 1.8rem;
+}
 label {
 	font-weight: bold;
 }
@@ -20,8 +24,13 @@ input, textarea {
 	border-radius: 4px;
 }
 button {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	top: 30px;
 	background-color: #3F8E00;
-	width: 300px;
+	width: 100%;
 	height: 60px;
 	color: white;
 	padding: 10px;
