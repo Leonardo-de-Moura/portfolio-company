@@ -25,7 +25,13 @@
   }
 }
 @media (max-width: 780px) {
+	.perfil img{
+		transform: scale(0.8);
+	}
+	.text{
+		position: relative;
+		bottom: 80px;
+	}
 }
 
-@media (max-width: 480px) {
-}
+
