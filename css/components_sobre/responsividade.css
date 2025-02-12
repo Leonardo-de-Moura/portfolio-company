@@ -1,0 +1,28 @@
+@media (max-width: 1325px) {
+	main {
+	  display: grid;
+	  grid-template-columns: none;
+	  grid-template-rows: auto auto;
+	}
+	section{
+
+		display: flex;
+	}
+	section img {
+		transform: scale(0.8);
+	}
+	aside{
+		display: block;
+		margin: auto;
+	}
+  }
+  @media (max-width: 750px) {
+	section img{
+		transform: scale(0.6);
+	}
+	aside{
+		width: 80%;
+	}
+	 
+  }
+  

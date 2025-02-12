@@ -2,11 +2,10 @@ section {
   margin: 40px;
 }
 img {
-  position: relative;
+  margin: auto;
   width: 500px;
   height: 500px;
   border-radius: 50%;
-  left: 100px;
   transition: transform 0.5s ease-in;
 }
 img:hover {

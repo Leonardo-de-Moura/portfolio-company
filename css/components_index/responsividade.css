@@ -8,8 +8,8 @@
     grid-row: 2;
   }
   .perfil {
-    display: block;
-    grid-row: 1;
+  display: block;
+  grid-row: 1;
 	margin: auto;
 	margin-right: 230px;
   }

@@ -3,6 +3,7 @@
 @import url("components_sobre/section.css");
 @import url("components_sobre/main.css");
 @import url("components_index/footer.css");
+@import url("components_sobre/responsividade.css");
 
 *{
 	border: 0;
