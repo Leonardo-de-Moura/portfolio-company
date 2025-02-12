@@ -1,6 +1,7 @@
 section{
 	display: flex;
 	width: 50vw;
+	height: 290px;
 }
 section .text{
 	margin: auto;
