@@ -2,6 +2,7 @@
 @import url("components_experience/grid.css");
 @import url("components_index/header.css");
 @import url("components_index/footer.css");
+@import url("components_experience/responsividade.css");
 
 *{
 	border: 0;
@@ -10,7 +11,7 @@
 	box-sizing: border-box;
 }
 body{
-	overflow: hidden;
+
 	background-color: black;
 	color: white;
 }

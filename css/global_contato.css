@@ -1,6 +1,7 @@
 @import url("components_index/footer.css");
 @import url("components_index/header.css");
 @import url("components_contato/form.css");
+@import url("components_contato/responsividade.css");
 
 *{
 	border: 0;

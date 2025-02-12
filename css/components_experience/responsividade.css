@@ -1,0 +1,19 @@
+@media (max-width: 1625px) {
+  .grid-container {
+    display: block;
+  }
+  .grid {
+    margin: auto;
+    height: 210px;
+    margin-bottom: 20px;
+    width: 60%;
+  }
+  .title {
+    margin-bottom: 25px;
+  }
+}
+@media (max-width: 960px) {
+  .grid {
+    width: 80%;
+  }
+}
